@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"mo",
+				"modeButtons"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"me",
+				"messageDisplay"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"p",
+				"pickedColor"
+			],
+			[
+				"col",
+				"colorDisplay"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"b",
+				"backgroundColor"
+			],
+			[
+				"pi",
+				"pickedColor"
+			],
+			[
+				"cli",
+				"clickedColor"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"cha",
+				"changeColors"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"s",
+				"squares"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"w",
+				"winningScoreDisplay"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"sc",
+				"scorekeeper"
+			],
+			[
+				"g",
+				"gameOver"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"printReverse"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"n",
+				"newTodo"
+			],
+			[
+				"ye",
+				"yet"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"G",
+				"Guess"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"na",
+				"nav-item"
+			],
+			[
+				"nav",
+				"navbar-collapse"
+			],
+			[
+				"c",
+				"collapse"
+			],
+			[
+				"nav-i",
+				"nav-item"
+			],
+			[
+				"bp",
+				"background-position"
+			],
+			[
+				"ta",
+				"ta:c\ttext-align:center"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 465.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/Patatap CodeAlong/circles.css",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/Patatap CodeAlong/circles.html",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/TodoListProject/index.html",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/TodoListProject/assets/css/todos.css",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/TodoListProject/assets/js/todos.js",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/jQuery/event.html",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/jQuery/methods.html",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/jQuery/exercise.js",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/jQuery/exercise.html",
+		"/Users/calvinroberts/Desktop/DreadedDev TT/JimmyBJs/coding-computer-hacker-97077.jpg",
+		"/Users/calvinroberts/Desktop/DreadedDev TT/JimmyBJs/index.html",
+		"/Users/calvinroberts/Desktop/DreadedDev TT/index.html",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/Color Game/colorGame.js",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/Color Game/colorGame.css",
+		"/Users/calvinroberts/Desktop/Colt Steeles' Complete Web Developer Course/Color Game/colorGame.html",
+		"/Users/calvinroberts/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/calvinroberts/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/calvinroberts/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/calvinroberts/Desktop/todos.css",
+		"/Users/calvinroberts/Desktop/todos.js",
+		"/Users/calvinroberts/Desktop/todo.html",
+		"/Users/calvinroberts/Desktop/scorekeeper.css",
+		"/Users/calvinroberts/Desktop/scorekeeper.js",
+		"/Users/calvinroberts/Desktop/ScoreKeeper.html",
+		"/Users/calvinroberts/Desktop/toggle.js",
+		"/Users/calvinroberts/Desktop/toggle.html",
+		"/Users/calvinroberts/Desktop/arraysolution.js",
+		"/Users/calvinroberts/Desktop/arraysolution.html",
+		"/Users/calvinroberts/Desktop/list.js",
+		"/Users/calvinroberts/Desktop/list.html",
+		"/Users/calvinroberts/Desktop/solution.js",
+		"/Users/calvinroberts/Desktop/functions.html",
+		"/Users/calvinroberts/Desktop/loops.js",
+		"/Users/calvinroberts/Desktop/whileLoops.html",
+		"/Users/calvinroberts/Desktop/forLoops.html",
+		"/Users/calvinroberts/Desktop/annoy.js",
+		"/Users/calvinroberts/Desktop/annoy.html",
+		"/Users/calvinroberts/Desktop/game.html",
+		"/Users/calvinroberts/Desktop/game.js",
+		"/Users/calvinroberts/Desktop/stalker.html",
+		"/Users/calvinroberts/Desktop/stalker.js",
+		"/Users/calvinroberts/Desktop/script.js",
+		"/Users/calvinroberts/Desktop/jsdemo.html",
+		"/Users/calvinroberts/Desktop/app.css",
+		"/Users/calvinroberts/Desktop/index.html",
+		"/Users/calvinroberts/Desktop/navbars.html",
+		"/Users/calvinroberts/Desktop/gallery.html",
+		"/Users/calvinroberts/Downloads/07_Image_Gallery/gallery.md",
+		"/Users/calvinroberts/Desktop/gallery.css",
+		"/Users/calvinroberts/Library/Application Support/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/Users/calvinroberts/Desktop/grid.html",
+		"/Users/calvinroberts/Desktop/blog.html",
+		"/Users/calvinroberts/Desktop/basics.html",
+		"/Users/calvinroberts/Desktop/blog.css",
+		"/Users/calvinroberts/Desktop/photos.css",
+		"/Users/calvinroberts/Desktop/photoGrid.html",
+		"/Users/calvinroberts/Desktop/board.html",
+		"/Users/calvinroberts/Desktop/registrationForm.html",
+		"/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "circles.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 99.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
